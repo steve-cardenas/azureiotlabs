@@ -32,7 +32,7 @@ Click on **Logic Apps**
 
 Use existing resource group created in previous steps and press Create
 
-![Create Logic App](images/02_Create_LogicApp_Submit.png)
+![Create Logic App](images/02_Create_LogicApp_Submitv2.png)
 
 Using Logic App Designer, Create New App
 
