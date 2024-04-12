@@ -117,3 +117,13 @@ Click on Heatmap
 View data in a table
 
 ![Visualize Data](images/table.png)
+
+
+
+
+
+------
+Steps to New version with data Explorer
+
+
+https://sandervandevelde.wordpress.com/2022/04/26/azure-data-explorer-connector-for-iot-hub-with-real-time-ingest/
