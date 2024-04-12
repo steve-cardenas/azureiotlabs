@@ -43,6 +43,7 @@ New workflow
 ![Create App](images/03_Logic_App_designers2.png)
 
 Click Designer
+
 ![Create App](images/03_Logic_App_designers3.png)
 
 Select HTTP Request
@@ -134,6 +135,18 @@ Add Response trigger
 ![Create email template](images/11_Send_Email-addResponse.png)
 
 Set Response Boy 
+
+```code
+{
+  "type": "Response",
+  "kind": "Http",
+  "inputs": {
+    "statusCode": 200,
+    "body": "@item()?['data']?['validationCode']"
+  }
+}
+```
+
 ![Create email template](images/11_Send_Email-addResponse-body.png)
 
 ## Copy Request URL
