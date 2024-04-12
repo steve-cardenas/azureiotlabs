@@ -36,7 +36,9 @@ Use existing resource group created in previous steps and press Create
 
 Using Logic App Designer, Create New App
 
-![Create App](images/03_Logic_App_designer.png)
+![Create App](images/03_Logic_App_designerv2.png)
+
+![Create App](images/03_Logic_App_designers2.png)
 
 Select HTTP Request
 
