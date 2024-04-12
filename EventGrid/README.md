@@ -194,6 +194,12 @@ You Should get an email notification
 
 
 ----
-Validation
+References 
+
 https://www.linkedin.com/pulse/configuring-event-grids-correctly-logic-app-standard-raunak-narooka-h3kgf/
 ![image](https://github.com/steve-cardenas/azureiotlabs/assets/120434396/a5970498-3222-492f-9ebf-e120fea80026)
+
+
+https://learn.microsoft.com/en-us/azure/event-grid/publish-iot-hub-events-to-logic-apps
+![image](https://github.com/steve-cardenas/azureiotlabs/assets/120434396/820c8ecb-3aa8-410f-8a38-5a1309ee9cff)
+
