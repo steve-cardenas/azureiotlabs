@@ -72,7 +72,7 @@ Click on **Stream Analytics Job**
 
 Stream Analytics job cab be created to run on the cloud as well as on the Edge. You will chose to run this on the cloud
 
-![Create Stream Analytics Job](images/08_Create_Stream_Analytics_Job_submit.png)
+![Create Stream Analytics Job](images/08_Create_Stream_Analytics_Job_submitv2.png)
 
 Add Input for Streaming Job
 
@@ -80,11 +80,11 @@ Add Input for Streaming Job
 
 Select IoTHub as Input
 
-![Select Input](images/10_Add_IoTHub.png)
+![Select Input](images/10_Add_IoTHubv2.png)
 
 Make sure to provide a consumer group. Each consumer group allows up to 5 output sinks/consumers. Make sure you create a new consumer group for every 5 output sinks and you can create up to 32 consumer groups.
 
-![Save Input](images/11_Save_IoTHub.png)
+![Save Input](images/11_Save_IoTHubv2.png)
 
 Add Data Lake Store as Output for Streaming Job
 
@@ -92,13 +92,15 @@ Add Data Lake Store as Output for Streaming Job
 
 Select Data Lake Store as output sink
 
-![Add Output](images/13_Add_Output.png)
+![Add Output](images/13_Add_Outputv2.png)
 
 Select the Data Lake Store account you created in previous steps and provide folder structure to stream data to the store
 
 /workshop/streaming/{date}/{time} with Date=YYYY/MM/DD format and Time=HH format will equate to /workshop/streaming/2018/03/30/11 on the store
 
-![Provide Folder Structure](images/14_Save_Output.png)
+![Provide Folder Structure](images/14_Save_Outputs1.png)
+
+![Provide Folder Structure](images/14_Save_Outputs2.png)
 
 You will have to Authorize data lake store connection for Stream analytics to have access to be able to write to data lake store
 
