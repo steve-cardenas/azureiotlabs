@@ -38,11 +38,16 @@ Using Logic App Designer, Create New App
 
 ![Create App](images/03_Logic_App_designerv2.png)
 
+New workflow
+
 ![Create App](images/03_Logic_App_designers2.png)
+
+Click Designer
+![Create App](images/03_Logic_App_designers3.png)
 
 Select HTTP Request
 
-![Select HTTP Request](images/04_Http_Request.png)
+![Select HTTP Request](images/04_Http_Requestv2.png)
 
 Provide a Sample Payload
 
@@ -93,7 +98,10 @@ Provide a Sample Payload
 }]
 ```
 
-![Provide Sample Payload](images/05_Sample_Payload.png)
+![Provide Sample Payload](images/05_Sample_Payloadv2.png)
+
+Click use sample payload to generate schema
+![Provide Sample Payload](images/05_Sample_Payloads2.png)
 
 ## Setup Notification by Sending Email 
 
@@ -115,11 +123,18 @@ Finish Mail Actions
 
 Sign in to email
 
-![Sign in to email](images/10_signin_to_email.png)
+![Sign in to email](images/10_signin_to_emailv2.png)
 
 Create Email template
 
 ![Create email template](images/11_Send_Email.png)
+
+Add Response trigger
+
+![Create email template](images/11_Send_Email-addResponse.png)
+
+Set Response Boy 
+![Create email template](images/11_Send_Email-addResponse-body.png)
 
 ## Copy Request URL
 
@@ -127,13 +142,13 @@ Create Email template
 
 ## Integrate With IoTHub
 
-Integrate Logic App with IoTHub via Event Grid
+Integrate Logic App with IoTHub via Events
 
 ![Imported Script](images/13_IoTHub_EventHub.png "Integrated with IoTHub")
 
 Click on Event Subscription
 
-![Integrated with IoTHub](images/14_empty_event_subscription.png "")
+![Integrated with IoTHub](images/14_empty_event_subscriptionv2.png "")
 
 Copy the URL from previous steps into Subscriber Endpoint and click create
 
@@ -162,3 +177,10 @@ Go To IoTHub -> IoT Devices (Device Management) -> Select Device you created in 
 You Should get an email notification
 
 ![Email Notification](images/20_email_generated.png)
+
+
+
+----
+Validation
+https://www.linkedin.com/pulse/configuring-event-grids-correctly-logic-app-standard-raunak-narooka-h3kgf/
+![image](https://github.com/steve-cardenas/azureiotlabs/assets/120434396/a5970498-3222-492f-9ebf-e120fea80026)
