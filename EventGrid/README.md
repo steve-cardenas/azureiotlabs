@@ -134,7 +134,7 @@ Add Response trigger
 
 ![Create email template](images/11_Send_Email-addResponse.png)
 
-Set Response Boy 
+Set Response Body 
 
 ```code
 {
