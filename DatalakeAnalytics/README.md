@@ -40,27 +40,43 @@ Use existing resource group and click on Create button
 
 ## Create Job
 
-Click on Sample scripts 
+Click on Open Synapse Studio
 
 ![Create Sample Data](images/image033.png)
 
+Click on Ingest
+
 ![Create Sample Data](images/image034.png)
+
+Click on Built-in copy task
 
 ![Create Sample Data](images/image035.png)
 
+Click on New Connection
+
 ![Create Sample Data](images/image036.png)
+
+Click on Next Dataset configuration
 
 ![Create Sample Data](images/image037.png)
 
+Click on Next Destination
+
 ![Create Sample Data](images/image038.png)
 
-![Create Sample Data](images/image039.png)
+Click on Next Destination data store 
 
 ![Create Sample Data](images/image040.png)
 
+Click on Next Settings
+
 ![Create Sample Data](images/image041.png)
 
+Click on Next Settings 
+
 ![Create Sample Data](images/image042.png)
+
+Click on Next Finish 
 
 ![Create Sample Data](images/image043.png)
 
