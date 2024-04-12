@@ -6,19 +6,15 @@
 
 Azure Data Lake Store is an enterprise-wide hyper-scale repository for big data analytic workloads. Azure Data Lake enables you to capture data of any size, type, and ingestion speed in one single place for operational and exploratory analytics. Data Lake Store can store trillions of files. A single file can be larger than one petabyte in size. This makes Data Lake Store ideal for storing any type of data including massive datasets like high-resolution video, genomic and seismic datasets, medical data, and data from a wide variety of industries.
 
-## Create Azure Data Lake Store
+## Find Azure Data Lake Store
 
-Create a hyper scale data lake store to store IoT Data. Click on **Create a resource**
-
-![Create Datalake Store](images/create_resource.png)
-
-Click on **Data + Analytics**
+Find a hyper scale data lake store to store IoT Data. Click on Storage accounts
 
 ![Create Datalake Store](images/dataanalytics.png)
 
-Click on **Data Lake Store**
+Click on Storage Browser
 
-![Create Datalake Store](images/01_Create_Datalake_Store.png)
+![Create Datalake Store](images/01_Create_Datalake_Storev2.png)
 
 During creation of data lake you have the choice to encrypt the store
 
