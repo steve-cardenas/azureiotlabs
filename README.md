@@ -22,37 +22,37 @@ Labs using Azure Services to build Azure IoT End to End Solutions connecting rea
 
 **Duration**: 60 minutes
 
-[Data Explorer Lab](https://github.com/Azure-Samples/azureiotlabs/blob/master/timeseriesinsights/README.md)
+[Data Explorer Lab](https://github.com/steve-cardenas/azureiotlabs/blob/master/timeseriesinsights/README.md)
 
 ### Module 4: Capture Device Events and Send Notifications
 
 **Duration**: 30 minutes
 
-[Azure IoTHub with Event Grid Lab](https://github.com/Azure-Samples/azureiotlabs/blob/master/EventGrid/README.md)
+[Azure IoTHub with Event Grid Lab](https://github.com/steve-cardenas/azureiotlabs/blob/master/EventGrid/README.md)
 
 ### Module 5: Cold Path Storage
 
 **Duration**: 60-90 minutes
 
-[Azure Date Lake Store Lab](https://github.com/Azure-Samples/azureiotlabs/blob/master/DatalakeStore/README.md)
+[Azure Date Lake Store Lab](https://github.com/steve-cardenas/azureiotlabs/blob/master/DatalakeStore/README.md)
 
 ### Module 6: Hot Path Analytics
 
 **Duration**: 60 minutes
 
-[Cosmos DB Lab](https://github.com/Azure-Samples/azureiotlabs/blob/master/CosmosDB/README.md)
+[Cosmos DB Lab](https://github.com/steve-cardenas/azureiotlabs/blob/master/CosmosDB/README.md)
 
 ### Module 7: Batch Analytics
 
 **Duration**: 60 minutes
 
-[Azure Date Lake Analytics Lab](https://github.com/Azure-Samples/azureiotlabs/blob/master/DatalakeAnalytics/README.md)
+[Azure Date Lake Analytics Lab](https://github.com/steve-cardenas/azureiotlabs/blob/master/DatalakeAnalytics/README.md)
 
 ### Module 8: Load Test using Device Simulator
 
 **Duration**: 30 minutes
 
-[Device Simulator](https://github.com/Azure-Samples/azureiotlabs/blob/master/DeviceSimulator/README.md)
+[Device Simulator](https://github.com/steve-cardenas/azureiotlabs/blob/master/DeviceSimulator/README.md)
 
 
 ### Module 9: Configure and monitor IoT devices at scale
