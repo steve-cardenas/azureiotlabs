@@ -1,4 +1,4 @@
-# Visualize Time Series Data with Azure Time Series Insights
+# Visualize Time Series Data with Data Explorer
 
 ![Time Series Insights](images/timeseriesinsights.jpg)
 
