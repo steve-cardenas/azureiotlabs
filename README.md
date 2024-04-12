@@ -22,7 +22,7 @@ Labs using Azure Services to build Azure IoT End to End Solutions connecting rea
 
 **Duration**: 60 minutes
 
-[Time Series Insights Lab](https://github.com/Azure-Samples/azureiotlabs/blob/master/timeseriesinsights/README.md)
+[Data Explorer Lab](https://github.com/Azure-Samples/azureiotlabs/blob/master/timeseriesinsights/README.md)
 
 ### Module 4: Capture Device Events and Send Notifications
 
