@@ -18,7 +18,7 @@ Labs using Azure Services to build Azure IoT End to End Solutions connecting rea
 
 [Azure IoTHub Pi Simulator Lab](https://github.com/Azure-Samples/azureiotlabs/blob/master/IoTHub-PiSimulator/README.md)
 
-### Module 3: Create Azure Time Series Insights and Visualize Device Data
+### Module 3: Create Azure Data Explorer and Visualize Device Data
 
 **Duration**: 60 minutes
 
