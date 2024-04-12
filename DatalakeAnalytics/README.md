@@ -78,6 +78,18 @@ Click on Next Settings
 
 Click on Next Finish 
 
+
+
+
+
+
+-------
+
+References
+
+https://github.com/MicrosoftLearning/mslearn-synapse/blob/master/Instructions/Labs/01-Explore-Azure-Synapse.md
+![image](https://github.com/steve-cardenas/azureiotlabs/assets/120434396/8e07ad4c-b381-402e-8805-a49ee86b9dd2)
+
 ![Create Sample Data](images/image043.png)
 
 
